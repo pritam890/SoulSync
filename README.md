@@ -86,7 +86,7 @@ Ensure your frontend API requests correctly target your backend (e.g., using `ht
 
 ## 🌱 Environment Variables
 
-Create a `.env` file in the backend root and add:
+Create a `.env` file in the backend and client root and add:
 
 ```
 MONGO_URI=your_mongodb_connection_string
