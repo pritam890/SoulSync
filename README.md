@@ -92,6 +92,7 @@ Create a `.env` file in the backend root and add:
 MONGO_URI=your_mongodb_connection_string
 JWT_SECRET=your_jwt_secret
 PORT=4000
+VITE_BACKEND_URI=add_your_backend_url_in_client_side
 ```
 
 
